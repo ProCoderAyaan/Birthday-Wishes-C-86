@@ -1,0 +1,13 @@
+.body_background{background-color: darkblue;
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas{border-width:10px;
+    background-color: lightblue; 
+    border-style:ridge;
+    border-color: blue;
+}
+h2{border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+}
